@@ -2,4 +2,8 @@ bower_components
 node_modules
 *.log
 .DS_Store
+<<<<<<< HEAD
 bundle.js
+=======
+bundle.js
+>>>>>>> 3e1adb4 (inital commit)
